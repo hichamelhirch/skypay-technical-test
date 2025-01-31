@@ -1,1 +1,1 @@
-🚀 Ce projet implémente un système de gestion de comptes bancaires en respectant les principes du Domain-Driven Design (DDD). Les concepts métiers comme Account, Transaction et DateProvider sont modélisés de manière indépendante, permettant ainsi une gestion claire et évolutive du domaine. ✅ Le développement suit une approche Test-Driven Development (TDD).
+
